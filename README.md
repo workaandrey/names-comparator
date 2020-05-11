@@ -1,4 +1,4 @@
-#Name comparator package
+# Name comparator package
 
 It allows comparing names, e.g: 
 ```
@@ -10,7 +10,7 @@ IDOWU EBUNOLUWA SARAH is equal to  SARAH, EBUNOLUWA IDOWU
 IDOWU EBUNOLUWA SARAH is NOT EQUAL to  SARAH, IDOWU
 ```
 
-##Usage
+## Usage
 ```php
 use NameComparator\BasicComparator;
 use NameComparator\NameComparator;
